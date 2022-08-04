@@ -1,0 +1,10 @@
+import "./styles.css";
+
+document.getElementById("app").innerHTML = `
+<h1>Hello MJ!</h1>
+<div>
+  
+“Qué capa ya estoy usando GitHub y voy hacer
+mi primer commit, solo me llevó 359 intentos y la ayuda de Bear para que VEA Y PIENSE. Damn.”
+
+</div>`;
